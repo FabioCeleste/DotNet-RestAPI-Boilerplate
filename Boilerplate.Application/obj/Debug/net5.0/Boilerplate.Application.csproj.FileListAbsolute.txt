@@ -1,0 +1,17 @@
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Application.deps.json
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Application.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\ref\Boilerplate.Application.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Application.pdb
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\ref\Boilerplate.Application.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.pdb
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Domain.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Persistence.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Domain.pdb
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\bin\Debug\net5.0\Boilerplate.Persistence.pdb
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Application\obj\Debug\net5.0\Boilerplate.Application.csproj.CopyComplete

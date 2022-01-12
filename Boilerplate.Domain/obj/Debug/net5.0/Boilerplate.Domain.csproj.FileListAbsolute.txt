@@ -1,0 +1,12 @@
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\bin\Debug\net5.0\Boilerplate.Domain.deps.json
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\bin\Debug\net5.0\Boilerplate.Domain.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\bin\Debug\net5.0\ref\Boilerplate.Domain.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\bin\Debug\net5.0\Boilerplate.Domain.pdb
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\ref\Boilerplate.Domain.dll
+C:\Users\fabio\OneDrive\Imagens\www\Boilerplate\Boilerplate.Domain\obj\Debug\net5.0\Boilerplate.Domain.pdb
